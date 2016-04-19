@@ -1,3 +1,5 @@
 here is bjorns file
 Bjørn added this line
 Added a line to bjorn.txt
+Added one more line, removed one
+added line to bjorn.txt and removed one line
