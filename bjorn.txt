@@ -1,2 +1,2 @@
 here is bjorns file
-Bjørn added this line
+Added one more line, removed one
