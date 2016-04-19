@@ -1,1 +1,3 @@
 here is bjorns file
+ihere is a new line to conflict	
+here is a non conflict line
