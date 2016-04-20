@@ -1,3 +1,3 @@
 # bergen
 
-i hope you didnt change the readme
+Whoops i did it, need this for the brand new readme features
