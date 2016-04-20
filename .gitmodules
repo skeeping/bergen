@@ -1,0 +1,3 @@
+[submodule "bergensub"]
+	path = bergensub
+	url = https://github.com/skeeping/bergensub.git
